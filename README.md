@@ -61,12 +61,13 @@ Invoke it by name - just tell Claude you want to create a VTM5 character. The sk
 - Vampire: The Masquerade 5th Edition (core rulebook)
 - V5 Players Guide (bane variants)
 - Consent in Gaming (Monte Cook Games) - consent form structure
+- VTM5 Bloodlines Companion by Chrystian Rissoli (Storytellers Vault) - bloodline support
 
 ---
 
 ## File Integrity
 
-SHA256: `093ff8d27be874343bbcb8e74588bd935d8be15fd22defe4ef78f3fbeff09428`
+SHA256: `e6db8082eacf2198400cb7bd6132197395c3a200b5df6f01f29acd67efaaa235`
 
 Verify the file you downloaded matches this hash before installing.
 
@@ -94,4 +95,5 @@ See [LICENSE](LICENSE) for full terms.
 
 | Version | Date | Notes |
 |---|---|---|
+| 1.1 | 2026-03-28 | Added Bloodlines Companion support: Baali, Children of Osiris, Heirs of Aphrodite, Gargoyles, Old Clan Brujah, Old Clan Tzimisce; added Daimonion discipline |
 | 1.0 | 2026-03-27 | Initial release |
